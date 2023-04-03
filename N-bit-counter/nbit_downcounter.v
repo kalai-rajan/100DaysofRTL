@@ -6,7 +6,7 @@
 always @(posedge clk or posedge rst)
 begin
     if(rst)
-      count<=(2**(WIDTH)-1);
+      count<=0;
     else
      begin
         count<=count-1;
