@@ -3,26 +3,20 @@ module mux4_1_using_case (
      output reg y
 );
 
-always @(*) begin
+always @(*) begin             //behavioral modelling.
     case({s1,s0})
     2'd0:y=ip[0];
     2'd1:y=ip[1];
     2'd2:y=ip[2];
     2'd3:y=ip[3];
    
-
     endcase
     
 end
 
-
-    
 endmodule
 
 module mux4_1_case_tb;
-
- 
-
 wire Y;
 reg [3:0]IP;
 reg S1,S0;
