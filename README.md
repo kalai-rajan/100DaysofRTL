@@ -5,3 +5,7 @@ I have used Modelsim software & EDA Playground for RTL Simulation.
 
 
 The DUT and TESTBENCH Modules are coded under a single.v file.
+
+[DAY1]: Asynchronos Counters.
+
+[DAY2]: Bidirectional Shift Register.
