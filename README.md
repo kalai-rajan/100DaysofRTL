@@ -9,3 +9,5 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 [DAY1]: Asynchronous Counters.
 
 [DAY2]: Bidirectional Shift Register.
+
+[DAY3]: Johnson Counter.
