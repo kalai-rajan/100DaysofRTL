@@ -11,3 +11,5 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 [DAY2]: Bidirectional Shift Register.
 
 [DAY3]: Johnson Counter.
+
+[DAY4]: BCD TO SEVEN SEGMENT DISPLAY.
