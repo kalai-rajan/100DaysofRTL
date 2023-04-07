@@ -5,7 +5,7 @@ module dff_asynchronous_prst_rst(
 
 
 
-always @(posedge clk or posedge prst)
+    always @(posedge clk or posedge prst or posedge rst)
 begin
     if(prst)
       q<=1;
