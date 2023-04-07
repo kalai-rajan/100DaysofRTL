@@ -13,3 +13,5 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 [DAY3]: Johnson Counter.
 
 [DAY4]: BCD TO Seven Segment Display Controller.
+
+[DAY5]:D_FLIP_FLOP.
