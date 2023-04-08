@@ -15,3 +15,5 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 [DAY4]: BCD TO Seven Segment Display Controller.
 
 [DAY5]:D FLIPFLOP.
+
+[DAY6]:ONE HOT TO BINARY ENCODER.
