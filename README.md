@@ -17,3 +17,5 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 [DAY5]:D FLIPFLOP.
 
 [DAY6]:ONE HOT TO BINARY ENCODER.
+
+[DAY7]: Binary Gray Converters.
