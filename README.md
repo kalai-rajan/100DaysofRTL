@@ -23,3 +23,5 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 [DAY8]:Ringcounter.
 
 [Day9]: Full Adder.
+
+[Day10]: Mealey Sequence Detector.
