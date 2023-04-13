@@ -26,4 +26,4 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day10]: Mealey Sequence Detector.
 
-[DAY 11]:DECODER
+[DAY 11]:DECODER.
