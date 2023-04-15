@@ -14,19 +14,19 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [DAY4]: BCD TO Seven Segment Display Controller.
 
-[DAY5]:D FLIPFLOP.
+[DAY5]: D FLIPFLOP.
 
-[DAY6]:ONE HOT TO BINARY ENCODER.
+[DAY6]: ONE HOT TO BINARY ENCODER.
 
 [DAY7]: Binary Gray Converters.
 
-[DAY8]:Ringcounter.
+[DAY8]: Ringcounter.
 
-[Day9]: Full Adder.
+[Day9]:  Full Adder.
 
 [Day10]: Mealey Sequence Detector.
 
-[Day11]: Decoder.
+[Day11]:  Decoder.
 
 [Day 12]: Fulladder cum Sub.
 
