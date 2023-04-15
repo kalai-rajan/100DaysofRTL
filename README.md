@@ -30,3 +30,5 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 12]: Fulladder cum Sub.
 
+[Day 13]: Mod-N-Counters.
+
