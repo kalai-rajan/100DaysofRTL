@@ -6,29 +6,31 @@ I have used Modelsim software & EDA Playground for RTL Simulation.
 
 The DUT and TESTBENCH Modules are coded under a single.v file.
 
-[DAY1]: Asynchronous Counters.
+[DAY 1]: Asynchronous Counters.
 
-[DAY2]: Bidirectional Shift Register.
+[DAY 2]: Bidirectional Shift Register.
 
-[DAY3]: Johnson Counter.
+[DAY 3]: Johnson Counter.
 
-[DAY4]: BCD TO Seven Segment Display Controller.
+[DAY 4]: BCD TO Seven Segment Display Controller.
 
-[DAY5]: D FLIPFLOP.
+[DAY 5]: D FLIPFLOP.
 
-[DAY6]: ONE HOT TO BINARY ENCODER.
+[DAY 6]: ONE HOT TO BINARY ENCODER.
 
-[DAY7]: Binary Gray Converters.
+[DAY 7]: Binary Gray Converters.
 
-[DAY8]: Ringcounter.
+[DAY 8]: Ringcounter.
 
-[Day9]:  Full Adder.
+[Day 9]:  Full Adder.
 
-[Day10]: Mealey Sequence Detector.
+[Day 10]: Mealey Sequence Detector.
 
-[Day11]:  Decoder.
+[Day 11]:  Decoder.
 
 [Day 12]: Fulladder cum Sub.
 
 [Day 13]: Mod-N-Counters.
+
+[Day 14]: Clock Divide by even number.
 
