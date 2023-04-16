@@ -20,7 +20,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [DAY 7]: Binary Gray Converters.
 
-[DAY 8]: Ringcounter.
+[DAY 8]: Ringcounters.
 
 [Day 9]:  Full Adder.
 
