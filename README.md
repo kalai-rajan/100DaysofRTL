@@ -20,13 +20,13 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [DAY 7]: Binary Gray Converters.
 
-[Day 8]: Ringcounters. 
+[Day 8]: Synchronous Counter(Ringcounter).
 
 [Day 9]:  Full Adder.
 
 [Day 10]: Mealey Sequence Detector.
 
-[Day 11]: Decoders.
+[Day 11]: Decoder Combinatinal Circuit.
 
 [Day 12]: Fulladder cum Sub.
 
