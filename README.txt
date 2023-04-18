@@ -34,7 +34,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 14]: Clock Divide by even number.
 
-[Day 15]:  Demux.
+[Day 15]: Demux.
 
 [Day 16]: Parity Generators.
 
