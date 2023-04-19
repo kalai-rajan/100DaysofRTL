@@ -38,4 +38,4 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 16]: Parity Generators.
 
-
+[Day 17]: Moore Sequence Detector.
