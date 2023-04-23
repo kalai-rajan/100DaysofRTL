@@ -43,3 +43,5 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 [DAY 18]:Multiplexer.
 
 [DAY 19]:Serial in Serial out Shift Register.
+
+[Day 20]: D-Latcch.
