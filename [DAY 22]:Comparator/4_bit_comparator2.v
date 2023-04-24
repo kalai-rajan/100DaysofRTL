@@ -4,7 +4,7 @@ module comp_4bit_2 (
 
 );
 
-assign aeb= (  (a[3] ~^ b[3]) && (a[2] ~^ b[2]) && (a[1] ~^ b[1]) && (a[0] ~^ b[0])  )     ;                         //try using tasks and functions   //check eqns of a>b;          
+assign aeb= (  (a[3] ~^ b[3]) && (a[2] ~^ b[2]) && (a[1] ~^ b[1]) && (a[0] ~^ b[0])  )     ;                         
 assign agb= (  (a[3] & (!b)) || ( (a[3] ~^ b[3]) && (a[2] & (!b[2]))  ) || ( (a[3] ~^ b[3]) && (a[2] ~^ b[2]) && (a[1] & (!b[1])) ) || ( (a[3] ~^ b[3]) && (a[2] ~^ b[2]) && (a[1] ~^ (b[1])) | (a[0] & ~b[0])) );
 assign alb=(!agb && !aeb)?1:0;
     
