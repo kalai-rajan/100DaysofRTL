@@ -72,11 +72,11 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [DAY 16 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
-[Day 17]: Moore Sequence Detector.
+[Day 17]: Moore Sequence Detector.  
 
 [DAY 17 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
-[DAY 18]: Multiplexer.
+[DAY 18]: Multiplexer.   
 
 [DAY 18 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
@@ -84,21 +84,21 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [DAY 19 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
-[Day 20]: Parallel in Serial Out Shift Register.
+[Day 20]: Parallel in Serial Out Shift Register.       
 
-[DAY 21 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+[DAY 20 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)  
 
-[Day 22]: Comparator.
+[Day 22]: Comparator.   
 
-[DAY 22 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+[DAY 22 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)  
 
-[Day 23]: BCD Counter.
+[Day 23]: BCD Counter.  
 
-[DAY 23 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+[DAY 23 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)  
 
-[Day 24]: Input Majority Circuit.
+[Day 24]: Input Majority Circuit.   
 
-[DAY 24 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+[DAY 24 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)   
 
 [Day 25]: BCD Adder.
 
