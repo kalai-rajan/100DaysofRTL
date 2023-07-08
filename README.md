@@ -106,7 +106,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 26]: Parallel in Serial  Out Register.
 
-[DAY 26 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+[DAY 26 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY%2020%5DParalle%20in%20Serial%20out%20Shift%20Register)
 
 [Day 27]: JK Flip Flop.
 
