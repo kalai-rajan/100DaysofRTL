@@ -10,6 +10,8 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [DAY 1]: Asynchronous Counters.
 
+[DAY 1 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY%201%5D%3A%20Asynchronos%20Counters.)
+
 [DAY 2]: Bidirectional Shift Register.
 
 [DAY 3]: Johnson Counter.
