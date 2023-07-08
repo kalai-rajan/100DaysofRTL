@@ -14,63 +14,123 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [DAY 2]: Bidirectional Shift Register.
 
+[DAY 2 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY2%5D:%20Bidirectionalshiftregister)
+
 [DAY 3]: Johnson Counter.
+
+[DAY 3 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [DAY 4]: BCD TO Seven Segment Display Controller.
 
+[DAY 4 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [DAY 5]: D FLIPFLOP.
+
+[DAY 5 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [DAY 6]: ONE HOT TO BINARY ENCODER.
 
+[DAY 6 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [DAY 7]: Binary Gray Converters.
+
+[DAY 7 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [Day 8]: Synchronous Counter(Ringcounter).
 
+[DAY 8 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [Day 9]:  Full Adder.
+
+[DAY 9 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [Day 10]: Mealey Sequence Detector.
 
+[DAY 10 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [Day 11]: Decoder Combinatinal Circuit.
+
+[DAY 11 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [Day 12]: Fulladder cum Sub.
 
+[DAY 12 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [Day 13]: N bit Counters.
+
+[DAY 13 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [Day 14]: Clock Divide by even number.
 
+[DAY 14 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [Day 15]: Demux.
+
+[DAY 15 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [Day 16]: Parity Generators.
 
+[DAY 16 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [Day 17]: Moore Sequence Detector.
+
+[DAY 17 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [DAY 18]: Multiplexer.
 
+[DAY 18 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [DAY 19]: Serial in Serial out Shift Register.
+
+[DAY 19 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [Day 20]: Parallel in Serial Out Shift Register.
 
+[DAY 21 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [Day 22]: Comparator.
+
+[DAY 22 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [Day 23]: BCD Counter.
 
+[DAY 23 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [Day 24]: Input Majority Circuit.
+
+[DAY 24 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [Day 25]: BCD Adder.
 
+[DAY 25 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [Day 26]: Parallel in Serial  Out Register.
+
+[DAY 26 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [Day 27]: JK Flip Flop.
 
+[DAY 27 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [Day 28]: D-Latch using Mux 2:1.
+
+[DAY 28 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [Day 29]: 3X1 Mux using 2:1 Mux.
 
+[DAY 29 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [Day 30]: 8 bit barrel shift register.
+
+[DAY 30 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 [Day 31]: 4bit Carry Look ahead adder.
 
+[DAY 31 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+
 [Day 32]: Tri state Buffer.
+
+[DAY 32 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
 # SYSTEM VERILOG
 
