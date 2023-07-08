@@ -70,7 +70,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 32]: Tri state Buffer.
 
-#SYTEM VERILOG
+# SYSTEM VERILOG
 
 [Day 33]: TB to display Hello world.
 
