@@ -102,7 +102,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 25]: BCD Adder.
 
-[DAY 25 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+[DAY 25 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY%2025%5DBCD%20Adder)
 
 [Day 26]: Parallel in Serial  Out Register.
 
