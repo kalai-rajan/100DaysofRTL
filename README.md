@@ -98,7 +98,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 24]: Input Majority Circuit.     
 
-[DAY 24 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)   
+[DAY 24 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/blob/main/%5BDay%2024%5D:%20Input%20majoritymajority.v)   
 
 [Day 25]: BCD Adder.
 
