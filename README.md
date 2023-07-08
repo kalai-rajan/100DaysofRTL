@@ -110,7 +110,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 27]: JK Flip Flop.
 
-[DAY 27 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+[DAY 27 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/Day%5B27%5D%20JK%20FF)
 
 [Day 28]: D-Latch using Mux 2:1.
 
