@@ -74,11 +74,11 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 17]: Moore Sequence Detector.  
 
-[DAY 17 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)   
+[DAY 17 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)  
 
-[Day 18]: Demux.
+[Day 18]: Demux.  
 
-[DAY 18 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)     
+[DAY 18 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)       
 
 [DAY 19]: Serial in Serial out Shift Register.  
 
