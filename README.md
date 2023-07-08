@@ -88,7 +88,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [DAY 20 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY%2020%5DParalle%20in%20Serial%20out%20Shift%20Register)  
   
-[Day 21]: D-Latch.        
+[Day 21]:       
 
 [DAY 21 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY%2021%5D%3ADLatch)
 
