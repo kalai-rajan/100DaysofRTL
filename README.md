@@ -64,7 +64,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [DAY 14 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
-[Day 15]: Demultiplexers.
+[Day 15]: Demux 1:4.  
 
 [DAY 15 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
 
