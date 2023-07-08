@@ -1,3 +1,5 @@
+
+#100DAYSOFRTL  
 Collection of Basic and essentials RTL Design and verification codes.
 The Design modules will be implemented in all possible modelling styles of verilog.
 I have used Modelsim software & EDA Playground for RTL Simulation.
