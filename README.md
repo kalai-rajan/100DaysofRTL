@@ -42,10 +42,105 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 17]: Moore Sequence Detector.
 
-[DAY 18]:Multiplexer.
+[DAY 18]: Multiplexer.
 
-[DAY 19]:Serial in Serial out Shift Register.
+[DAY 19]: Serial in Serial out Shift Register.
 
-[Day 20]: Parallel oin Serial Out Shift Register.
+[Day 20]: Parallel in Serial Out Shift Register.
 
-[Day 21]: D-Latcch.
+[Day 22]: Comparator.
+
+[Day 23]: BCD Counter.
+
+[Day 24]:
+
+[Day 25]:
+
+[Day 26]:
+
+[Day 27]:
+
+[Day 28]:
+
+[Day 29]:
+
+[Day 30]:
+
+[Day 31]:
+
+[Day 32]:
+
+[Day 33]:
+
+[Day 34]:
+
+[Day 35]:
+
+[Day 36]:
+
+[Day 37]:
+
+[Day 38]:
+
+[Day 39]:
+
+[Day 40]:
+
+[Day 41]:
+
+[Day 42]:
+
+[Day 43]:
+
+[Day 44]:
+
+[Day 45]:
+
+[Day 46]:
+
+[Day 47]:
+
+[Day 48]:
+
+[Day 49]:
+
+[Day 50]:
+
+[Day 51]:
+
+[Day 52]:
+
+[Day 53]:
+
+[Day 54]:
+
+[Day 55]:
+
+[Day 56]:
+
+[Day 57]:
+
+[Day 58]:
+
+[Day 59]:
+
+[Day 60]:
+
+[Day 61]:
+
+[Day 62]:
+
+[Day 63]:
+
+[Day 64]:
+
+[Day 65]:
+
+
+
+
+
+
+
+
+
