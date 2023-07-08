@@ -114,7 +114,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 28]: D-Latch using Mux 2:1.
 
-[DAY 28 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+[DAY 28 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/blob/main/%5BDAY%2028%5D:/d_latch_using_mux.v)
 
 [Day 29]: 3X1 Mux using 2:1 Mux.
 
