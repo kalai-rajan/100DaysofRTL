@@ -76,7 +76,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [DAY 17 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)   
 
-[DAY 18]: Multiplexer.          
+[DAY 18]:  Multiplexer.            
 
 [DAY 18 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)     
 
