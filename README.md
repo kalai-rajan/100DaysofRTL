@@ -52,87 +52,153 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 23]: BCD Counter.
 
-[Day 24]:
+[Day 24]: Input Majority Circuit.
 
-[Day 25]:
+[Day 25]: BCD Adder.
 
-[Day 26]:
+[Day 26]: Parallel in Serial  Out Register.
 
-[Day 27]:
+[Day 27]: JK Flip Flop.
 
-[Day 28]:
+[Day 28]: D-Latch using Mux 2:1.
 
-[Day 29]:
+[Day 29]: 3X1 Mux using 2:1 Mux.
 
-[Day 30]:
+[Day 30]: 8 bit barrel shift register.
 
-[Day 31]:
+[Day 31]: 4bit Carry Look ahead adder.
 
-[Day 32]:
+[Day 32]: Tri state Buffer.
 
-[Day 33]:
+#SYTEM VERILOG
 
-[Day 34]:
+[Day 33]: TB to display Hello world.
 
-[Day 35]:
+https://www.edaplayground.com/x/s8KU
 
-[Day 36]:
+[Day 34]: TB to verify Logic Datatype.
 
-[Day 37]:
+https://www.edaplayground.com/x/FgHV
 
-[Day 38]:
+[Day 35]: TB to verify Packed Struct
 
-[Day 39]:
+https://www.edaplayground.com/x/ngHn
 
-[Day 40]:
+[Day 36]: TB to verify unpacked Struct
 
-[Day 41]:
+ https://www.edaplayground.com/x/JMdh
 
-[Day 42]:
+[Day 37]: TB to verify functions
 
-[Day 43]:
+https://www.edaplayground.com/x/aMcA
 
-[Day 44]:
+[Day 38]: TB to verify automatic & static functions
 
-[Day 45]:
+https://edaplayground.com/x/8JGF
 
-[Day 46]:
+[Day 39]:  TB to verify pass by value and pass by reference
 
-[Day 47]:
+https://www.edaplayground.com/x/6UrW
 
-[Day 48]:
+[Day 40]: TB to verify Interface
 
-[Day 49]:
+https://www.edaplayground.com/x/gczL
 
-[Day 50]:
+[Day 41]: TB to verify shallow copy and handle assignment.
 
-[Day 51]:
+https://www.edaplayground.com/x/RTjw
 
-[Day 52]:
+[Day 42]: TB to verify Deep Copy.
 
-[Day 53]:
+https://www.edaplayground.com/x/RFji
 
-[Day 54]:
+[Day 43]: TB to verify Inheritance.
 
-[Day 55]:
+https://www.edaplayground.com/x/r2wL
 
-[Day 56]:
+[Day 44]: TB to verify polymorphism.
 
-[Day 57]:
+https://www.edaplayground.com/x/RtkM
 
-[Day 58]:
+[Day 45]: TB to verify Parameterized Classes.
 
-[Day 59]:
+https://www.edaplayground.com/x/jMn3
 
-[Day 60]:
+[Day 46]:  TB to verify Randomization.
 
-[Day 61]:
+https://www.edaplayground.com/x/DFFw
 
-[Day 62]:
+[Day 47]: TB to verify fork_join_any
 
-[Day 63]:
+https://www.edaplayground.com/x/Er68
 
-[Day 64]:
+[Day 48]: TB to verify fork_join_none
+
+https://www.edaplayground.com/x/JzVZ
+
+[Day 49]: TB to verify clocking blocks
+
+https://www.edaplayground.com/x/LMY7
+
+[Day 50]: TB to verify fork_join.
+
+https://www.edaplayground.com/x/Gesv
+
+[Day 51]:  TB to verify events.
+
+https://www.edaplayground.com/x/VJQ6
+
+[Day 52]: TB to verify mailbox.
+
+https://www.edaplayground.com/x/LQLQ
+
+[Day 53]: TB to verify mailbox to send transaction class data.
+
+https://www.edaplayground.com/x/LSLS
+
+[Day 54]: TB to verify parameterized mailbox.
+
+https://www.edaplayground.com/x/hJ2w
+
+[Day 55]: TB to verify wait fork
+
+https://www.edaplayground.com/x/vrKs
+
+[Day 56]: TB to verify 4-bit Full Adder.
+
+https://www.edaplayground.com/x/vBCB
+
+[Day 57]: TB to verify D Flip Flop.
+
+https://www.edaplayground.com/x/juiN
+
+[Day 58]: TB to verify 4-Bit Full Sbractor.
+
+https://www.edaplayground.com/x/aCed
+
+[Day 59]:  TB to verify Gray to Binary converters.
+
+ https://www.edaplayground.com/x/nrVX
+
+[Day 60]: TB to verify 4*1 Multiplexers.
+
+https://www.edaplayground.com/x/LrVr
+
+[Day 61]: TB to verify 3:8 Decoders.
+
+https://www.edaplayground.com/x/NXFj
+
+[Day 62]: TB to verify Gray to Binary Converter.
+
+https://www.edaplayground.com/x/g3jm
+
+[Day 63]: TB to verify 1:4 Demultiplexer.
+
+https://www.edaplayground.com/x/w97_
+
+[Day 64]: TB to verify priority encoder.
+
+https://www.edaplayground.com/x/TpL9
 
 [Day 65]:
 
