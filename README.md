@@ -76,7 +76,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [DAY 17 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)   
 
-[Day 18]: 
+[Day 18]: DEMUX.
 
 [DAY 18 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)       
 
@@ -86,7 +86,7 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 20]: Parallel in Serial Out Shift Register.          
 
-[DAY 20 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY%2020%5DParalle%20in%20Serial%20out%20Shift%20Register)
+[DAY 20 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY%2020%5DParalle%20in%20Serial%20out%20Shift%20Register)  
 
 [Day 22]: Comparator.   
 
