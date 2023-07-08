@@ -118,19 +118,19 @@ The DUT and TESTBENCH Modules are coded under a single.v file.
 
 [Day 29]: 3X1 Mux using 2:1 Mux.
 
-[DAY 29 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+[DAY 29 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/blob/main/%5BDAY%2029%5D:/1_3x1_mux.v)
 
 [Day 30]: 8 bit barrel shift register.
 
-[DAY 30 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+[DAY 30 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/blob/main/%5BDAY%2030%5D:/1_barrelshifter_8bit.v)
 
 [Day 31]: 4bit Carry Look ahead adder.
 
-[DAY 31 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+[DAY 31 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY%2031%5D:)
 
 [Day 32]: Tri state Buffer.
 
-[DAY 32 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/tree/main/%5BDAY3%5D:Johnsoncounter)
+[DAY 32 REPOSITRY](https://github.com/kalai-rajan/100DaysofRTL/blob/main/%5BDAY32%5D:/a_tristate_buffer.v)
 
 # SYSTEM VERILOG
 
