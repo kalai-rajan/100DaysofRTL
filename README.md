@@ -267,7 +267,9 @@ https://www.edaplayground.com/x/w97_
 
 https://www.edaplayground.com/x/TpL9
 
-[Day 65]:
+[Day 65]: TB to Verify Counter
+
+https://lnkd.in/g33K4249
 
 
 
