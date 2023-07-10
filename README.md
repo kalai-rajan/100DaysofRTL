@@ -271,6 +271,11 @@ https://www.edaplayground.com/x/TpL9
 
 https://lnkd.in/g33K4249
 
+[Day 66]: TB to Verify JK Flip Flop.
+
+
+https://lnkd.in/gDb-UsBn
+
 
 
 
