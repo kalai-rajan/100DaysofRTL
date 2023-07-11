@@ -275,7 +275,7 @@ https://lnkd.in/g33K4249
 
 https://www.edaplayground.com/x/jznr
 
-[Day 67]: TB to Verify t Flip Flop.
+[Day 67]: TB to Verify T Flip Flop.
 
 https://www.edaplayground.com/x/87FM
 
