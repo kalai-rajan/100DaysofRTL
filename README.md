@@ -279,7 +279,7 @@ https://www.edaplayground.com/x/jznr
 
 https://www.edaplayground.com/x/87FM
 
-[Day 67]: TB to Verify T Flip Flop.
+[Day 68]: TB to Verify SR Flip Flop.
 
 https://www.edaplayground.com/x/LReC
 
