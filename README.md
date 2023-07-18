@@ -283,6 +283,11 @@ https://www.edaplayground.com/x/87FM
 
 https://www.edaplayground.com/x/LReC
 
+[Day 69]: TB to Verify Synchronous FIFO.
+
+https://www.edaplayground.com/x/qafA
+
+
 
 
 
