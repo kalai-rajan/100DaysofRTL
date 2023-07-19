@@ -287,6 +287,9 @@ https://www.edaplayground.com/x/LReC
 
 https://www.edaplayground.com/x/qafA
 
+[Day70]: TB to Verify ALU.
+
+https://www.edaplayground.com/x/nRzB
 
 
 
