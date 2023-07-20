@@ -291,6 +291,14 @@ https://www.edaplayground.com/x/qafA
 
 https://www.edaplayground.com/x/nRzB
 
+# SYSTEM VERILOG CONSTRAINTS
+
+[Day71]: SV Constraint to generate the pattern 0102030405.
+
+[https://www.edaplayground.com/x/nRzB](https://www.edaplayground.com/x/jy26)https://www.edaplayground.com/x/jy26
+
+
+
 
 
 
