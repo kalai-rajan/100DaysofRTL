@@ -297,9 +297,26 @@ https://www.edaplayground.com/x/nRzB
 
 https://www.edaplayground.com/x/jy26
 
+[Day72]: System Verilog constraint for 4-bit dynamic array .The size of the array should be in between 15 to 20. 
+There should be even number in odd locations and odd number in even locations.
+
+EDAPlayground link:  https://lnkd.in/gtHfjyNj
+
+[Day73]:SV constraint to Derive even numbers within the range of 100 to 300
+
+EDAPlayground link: https://lnkd.in/gRgpvryE
 
 
+[Day74]: SV constraint for two random variables such that one variable should not match with the other  
+& the total number of bits toggled in one variable should be 5 w.r.t the other
 
+EDAPlayground link:  https://lnkd.in/gysS_2AQ
+
+
+[Day75]: Day75 : SV Constraint for generating a variable of 32 bit size, 
+it should have number of one's as 12 and the one's must be non consecutive.
+
+EDAPlayground link: https://lnkd.in/g8-CWJaU
 
 
 
