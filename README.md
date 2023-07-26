@@ -318,6 +318,10 @@ it should have number of one's as 12 and the one's must be non consecutive.
 
 https://lnkd.in/g8-CWJaU
 
+Day76 : SV Constraint for generating pattern 9 19 29 39 49 59 69 79
+
+https://www.edaplayground.com/x/JGbA
+
 
 
 
