@@ -313,7 +313,7 @@ https://lnkd.in/gRgpvryE
 https://lnkd.in/gysS_2AQ
 
 
-[Day75]: Day75 : SV Constraint for generating a variable of 32 bit size, 
+[Day75]: SV Constraint for generating a variable of 32 bit size, 
 it should have number of one's as 12 and the one's must be non consecutive.
 
 https://lnkd.in/g8-CWJaU
@@ -321,6 +321,10 @@ https://lnkd.in/g8-CWJaU
 Day76 : SV Constraint for generating pattern 9 19 29 39 49 59 69 79
 
 https://www.edaplayground.com/x/JGbA
+
+[Day77]: Day75 : SV Constraint for generating the pattern 1010101010..
+
+ https://www.edaplayground.com/x/fYvz
 
 
 
