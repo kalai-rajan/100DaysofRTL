@@ -322,7 +322,7 @@ Day76 : SV Constraint for generating pattern 9 19 29 39 49 59 69 79
 
 https://www.edaplayground.com/x/JGbA
 
-[Day77]: Day75 : SV Constraint for generating the pattern 1010101010..
+[Day77]: SV Constraint for generating the pattern 1010101010..
 
  https://www.edaplayground.com/x/fYvz
 
