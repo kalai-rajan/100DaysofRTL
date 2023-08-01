@@ -326,19 +326,20 @@ https://www.edaplayground.com/x/JGbA
 
  https://www.edaplayground.com/x/fYvz
 
- [Day78]: SV Constraint for generating the pattern 1010101010..
+ [Day78]:  SV Constraint such that when rand bit[3:0] a is randomized, the value of “a” should not be same as 
+ 5 previous occurrences of the value of “a”.
 
- https://www.edaplayground.com/x/fYvz
+ https://lnkd.in/g-fMQewS
 
- [Day79]: SV Constraint for generating the pattern 1010101010..
+ [Day79]:  SV Constraint to generate an array with elements in array are unique without using unique keyword.
 
- https://www.edaplayground.com/x/fYvz
+ https://lnkd.in/gWc683Kw
 
- [Day80]: SV Constraint for generating the pattern 1010101010..
+ [Day80]: SV Constraint to generate radomly 0,1 x and z.
 
- https://www.edaplayground.com/x/fYvz
+  https://lnkd.in/g_Ad6iav
 
- # UNIVERSAL VERIFICATION METHODOLOGY
+ # UNIVERSAL VERIFICATION METHODOLOGY(UVM)
 
  [Day80]: UVM factory: Global/type overriding by type. 
 
