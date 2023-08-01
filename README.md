@@ -326,6 +326,24 @@ https://www.edaplayground.com/x/JGbA
 
  https://www.edaplayground.com/x/fYvz
 
+ [Day78]: SV Constraint for generating the pattern 1010101010..
+
+ https://www.edaplayground.com/x/fYvz
+
+ [Day79]: SV Constraint for generating the pattern 1010101010..
+
+ https://www.edaplayground.com/x/fYvz
+
+ [Day80]: SV Constraint for generating the pattern 1010101010..
+
+ https://www.edaplayground.com/x/fYvz
+
+ # UNIVERSAL VERIFICATION METHODOLOGY
+
+ [Day80]: UVM factory: Global/type overriding by type. 
+
+ https://www.edaplayground.com/x/JTQ8
+
 
 
 
