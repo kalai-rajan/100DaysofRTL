@@ -2,8 +2,18 @@
 
 # 100DAYSOFRTL  
 Collection of Basic and essentials RTL Design and verification codes.
+Design modules were  written using verilog & Verification Testbenches are 
+constructed using System Verilog Constructs & UVM.
+
 The Design modules will be implemented in all possible modelling styles of verilog.
 I have used Modelsim software & EDA Playground for RTL Simulation.
+
+Tools used  
+Modelsim.  
+Questasim.  
+Xilinx Vivado.   
+Altera Quartus prime.   
+Eda Playground.      
 
 # VERILOG 
 
