@@ -355,6 +355,57 @@ https://www.edaplayground.com/x/JGbA
 
  https://www.edaplayground.com/x/JTQ8
 
+[DAY81]: UVM Factory type override
+
+https://lnkd.in/gZHPhJw3
+
+Day82 : UVM Factory instance override.
+
+https://lnkd.in/g7XicH4h
+
+Day83 : UVM Inbuilt Functions.
+
+https://lnkd.in/g-M9e6Ff
+
+Day84 : UVM Inbuilt methods do_copy( ).
+
+https://lnkd.in/gYhQ7GbS
+
+Day85 : UVM Inbuilt methods do_print( ).
+
+https://lnkd.in/gPpbdRVb
+
+Day86 : UVM reporting Mechanism.
+
+https://lnkd.in/giRHEyDP
+
+Day87: UVM Phases.
+
+https://lnkd.in/g-TV3A-4
+
+Day88: UVM Phase Objection
+
+https://lnkd.in/gt_TrxtE
+
+Day89: UVM Phases execution approach.
+
+https://lnkd.in/gb3SacD5
+
+Day90: UVM TLM put interface.
+
+https://lnkd.in/gTDERwYs
+
+Day91: UVM TLM get interface.
+
+https://lnkd.in/gq_Sj85d
+
+Day92: UVM TLM FIFO.
+
+https://lnkd.in/gY5au7Ef
+
+Day93: UVM TLM analysis port.
+
+https://lnkd.in/gdpuYwcT
 
 
 
