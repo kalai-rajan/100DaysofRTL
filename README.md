@@ -407,6 +407,37 @@ Day93: UVM TLM analysis port.
 
 https://lnkd.in/gdpuYwcT
 
+Day94: UVM TLM analysis fifo.
+
+ https://lnkd.in/g-3cFAeH
+
+# Verilog Design Projetcs. 
+
+Day95: Design of UART Protocol.
+
+https://lnkd.in/gNnHCE4H
+
+Day96: Design of SPI master.
+
+https://lnkd.in/gAzQJtbf
+
+Day97: Design of APB Slave(RAM).
+
+https://lnkd.in/gSX8i8_t
+
+Day98: Design of Real time digital Clock.
+
+https://lnkd.in/geeGAB3w
+
+Day99: Immediate Assertions
+
+https://lnkd.in/gfSTkBRi
+
+Day100: UVM Config DB
+
+https://www.edaplayground.com/x/Gwbk
+
+
 
 
 
