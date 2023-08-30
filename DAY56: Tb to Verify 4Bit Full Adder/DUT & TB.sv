@@ -47,11 +47,6 @@ class generator;
   event ended;
   int i=1;
   int repeat_no;
-
-    
-
-    
-
     function new(mailbox  gen2driv, mailbox gen2cov);
         this.gen2driv=gen2driv;
         this.gen2cov=gen2cov;
@@ -197,7 +192,7 @@ class scoreboard;
      end
     else begin
       t.display("SCOREBOARD");
-      $display("VERIFICATION OF TEST CASE SUCESS");
+      $display("VERIFICATION OF TEST CASE FAILURE");
     end
    	->scbnext;
     
