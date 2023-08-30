@@ -203,7 +203,7 @@ class scoreboard;
      end
     else begin
       ts.display("SCOREBOARD");
-      $display("VERIFICATION OF TEST CASE SUCESS");
+        $display("VERIFICATION OF TEST CASE FAILURE");
     end
    	->scbnext;
     
